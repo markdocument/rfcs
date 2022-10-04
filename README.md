@@ -4,7 +4,7 @@ This repository has the RFCs for Markdowndocs.
 The list of all of them is in the `/rfc` folder.
 
 ## Creating an RFC
-First, [fork the repository](https://github.com/markdocuments/rfcs/fork).
+First, [fork the repository](https://github.com/markdowndocs/rfcs/fork).
 
 Then, after that point, create a new file with the following filename format: `0000-your-rfc-name.md`.
 
