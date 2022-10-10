@@ -1,3 +1,4 @@
+# :lock: MarkdownDocs is sunsetting soon.
 # RFCs
 This repository has the RFCs for Markdowndocs.
 
